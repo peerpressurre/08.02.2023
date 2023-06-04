@@ -111,11 +111,6 @@ int main()
     int** arr = init_array(size);
     print_array(arr);
 
-
-
-
-
-
     //int matrix[SIZE][SIZE];
     ////Take input into Matrix
     //cout << "Enter elements into the matrix: \n";
